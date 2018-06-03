@@ -1,10 +1,11 @@
 Bitfilcoin integration/staging tree
 ================================
 
-http://www.bitfilcoin.org
+http://www.bitfilcoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Bitfilcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2018 Bitfilcoin Developers
 
 What is Bitfilcoin?
 ----------------
