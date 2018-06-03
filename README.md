@@ -10,10 +10,8 @@ Copyright (c) 2018 Bitfilcoin Developers
 What is Bitfilcoin?
 ----------------
 
-Bitfilcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~8300 million total coins
+Bitfilcoin is a clone of litecoin
+
 
 
 For more information, as well as an immediately useable, binary version of
